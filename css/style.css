@@ -163,11 +163,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-/* .banner_wrapper .img-fluid {
-  max-width: 120%;
-  height: auto;
-} */
 .banner_wrapper .banner-subtitle {
   font-size: 20px;
   font-weight: 500;
